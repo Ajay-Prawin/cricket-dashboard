@@ -1,0 +1,31 @@
+match_id,match_date,venue_name,team1,team2
+11,01-03-2025,"National Stadium
+",England,"South Africa"
+12,02-03-2025,"Dubai International Cricket Stadium
+",India,"New Zealand"
+13,04-03-2025,"Dubai International Cricket Stadium
+",Australia,India
+14,05-03-2025,"Gaddafi Stadium
+","New Zealand","South Africa"
+15,09-03-2025,"Dubai International Cricket Stadium
+","New Zealand",India
+1,19-02-2025,"National Stadium
+","New Zealand",Pakistan
+2,20-02-2025,"Dubai International Cricket Stadium
+",Bangladesh,India
+3,21-02-2025,"National Stadium
+","South Africa",Afghanistan
+4,22-02-2025,"Gaddafi Stadium
+",England,Australia
+5,23-02-2025,"Dubai International Cricket Stadium
+",Pakistan,India
+6,24-02-2025,"Rawalpindi Cricket Stadium
+",Bangladesh,"New Zealand"
+7,25-02-2025,"Rawalpindi Cricket Stadium
+",Australia,"South Africa"
+8,26-02-2025,"Gaddafi Stadium
+",Afghanistan,England
+9,27-02-2025,"Rawalpindi Cricket Stadium
+",Pakistan,Bangladesh
+10,28-02-2025,"Gaddafi Stadium
+",Afghanistan,Australia
