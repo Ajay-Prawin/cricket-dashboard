@@ -1,0 +1,13 @@
+match_id,winner_team_id,winner_name,result_type
+1,103,"New Zealand","Match Happened"
+2,101,India,"Match Happened"
+3,102,"South Africa","Match Happened"
+4,104,Australia,"Match Happened"
+5,101,India,"Match Happened"
+6,103,"New Zealand","Match Happened"
+8,105,Afghanistan,"Match Happened"
+11,102,"South Africa","Match Happened"
+12,101,India,"Match Happened"
+13,101,India,"Match Happened"
+14,103,"New Zealand","Match Happened"
+15,101,India,"Match Happened"
