@@ -1,0 +1,4 @@
+match_id,winner_team_id,result_type,win_margin,notes
+7,NULL,Abandoned,NULL,"Match abandoned without a ball bowled"
+9,NULL,Abandoned,NULL,"Match abandoned without a ball bowled"
+10,NULL,"No Result",NULL,"Match interrupted; no result due to rain"

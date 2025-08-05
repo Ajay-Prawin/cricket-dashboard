@@ -1,0 +1,14 @@
+match_id,toss_winner_name,toss_decision,batting_first_team
+1,Pakistan,field,"New Zealand"
+2,"New Zealand",bat,"New Zealand"
+3,England,bat,England
+4,Afghanistan,field,England
+5,Pakistan,bat,Pakistan
+6,India,field,Bangladesh
+8,Australia,bat,Australia
+10,Australia,bat,Australia
+11,Bangladesh,bat,Bangladesh
+12,India,field,"New Zealand"
+13,Afghanistan,field,Australia
+14,India,bat,India
+15,India,bat,India
