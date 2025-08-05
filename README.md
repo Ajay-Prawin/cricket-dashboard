@@ -26,4 +26,8 @@ To explore and visualize cricket match performance trends from ICC Champions Tro
 cricket-dashboard/
 │
 ├── SQL/                      # All raw SQL queries for each table
-├── CSV/                      # Original b
+├── CSV/                      # Original base CSVs imported into Power BI
+├── Exported_CSVs/            # Final CSVs exported after SQL transformations
+├── PowerBI_Dashboard/        # Final Power BI .pbix file
+├── README.md                 # Project description and instructions
+├── LICENSE                   # MIT license
